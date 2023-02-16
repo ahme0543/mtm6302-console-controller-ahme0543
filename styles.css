@@ -4,11 +4,21 @@
     font-size: 62.5%;
     
   }
+
+  .fonts {
+    color: white;
+  }
   
   body {
     background-color: #0f3f57;
     
   } 
+
+  .text-theme {
+    font-size: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
   
   .header {
     background-color: #8ca108;
@@ -30,9 +40,7 @@
     font-size: large;
     
   }
-  .fonts {
-    color: white;
-  }
+ 
  
   
   
@@ -48,11 +56,6 @@
   
   
   
-  .text-theme {
-    font-size: 0.5rem;
-    padding-left: 0.5rem;
-    padding-right: 0.5rem;
-  }
   
  
   

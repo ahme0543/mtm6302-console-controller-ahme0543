@@ -23,15 +23,15 @@ const setFontColor = function () {
 
 const header = document.querySelector("header");
 const main = document.querySelector("main");
-const mode = document.querySelector(".mode");
-const modeText = document.querySelector(".text-theme");
+const theme = document.querySelector(".theme");
+const Texttheme = document.querySelector(".text-theme");
 
 const setTheme = function () {
-  backgroundColor.classList.add("darkmode");
-  mode.classList.add("mode-dark");
+  backgroundColor.classList.add("darktheme");
+  mode.classList.add("theme-dark");
   main.classList.add("main-dark");
   header.style.backgroundColor = "brown";
   title.style.color = "white";
-  modeText.textContent = "dark mode";
+  Texttheme.textContent = "dark theme";
 };
 
