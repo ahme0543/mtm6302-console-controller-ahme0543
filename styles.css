@@ -1,0 +1,66 @@
+
+  
+  html {
+    font-size: 62.5%;
+    
+  }
+  
+  body {
+    background-color: #0f3f57;
+    
+  } 
+  
+  .header {
+    background-color: #8ca108;
+    min-width: 100vh;
+    height: 5rem;
+    margin: 0 auto 0 auto;
+  }
+  
+  #title {
+    font-size: 2rem;
+    font-weight: 200;
+    text-align: center;
+    margin-bottom: 1rem;
+    white-space: nowrap;
+    letter-spacing: 1px;
+  }
+  
+  p {
+    font-size: 1rem;
+    line-height: 2rem;
+  }
+  .fonts {
+    color: white;
+  }
+ 
+  /* .main-dark {
+    background-color: rgba(100, 100, 100, 0.4);
+  } */
+  
+  header {
+    position: relative;
+  }
+  .theme {
+    position: absolute;
+    left: 1rem;
+    top: 0.1rem;
+   
+  }
+  
+  /* .mode-dark {
+    position: absolute;
+    left: 1rem;
+    top: 0.1rem;
+   
+  }  */
+  
+  .text-theme {
+    font-size: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+  
+ 
+  
+  
