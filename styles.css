@@ -27,16 +27,14 @@
   }
   
   p {
-    font-size: 1rem;
-    line-height: 2rem;
+    font-size: large;
+    
   }
   .fonts {
     color: white;
   }
  
-  /* .main-dark {
-    background-color: rgba(100, 100, 100, 0.4);
-  } */
+  
   
   header {
     position: relative;
@@ -48,12 +46,7 @@
    
   }
   
-  /* .mode-dark {
-    position: absolute;
-    left: 1rem;
-    top: 0.1rem;
-   
-  }  */
+  
   
   .text-theme {
     font-size: 0.5rem;
